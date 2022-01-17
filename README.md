@@ -26,7 +26,7 @@ This is a sample application to showcase the use of Spring Cloud Function on top
 * Configure Storage account key with your own Storage Account key details
 
   * Open the ``` local.settings.json ```
-  * Customize the AzureWebJobsStorage property with storage account key
+  * Customize the AzureWebJobsStorage property with your own storage account key
 
 * Build the project: ``` mvn clean package ```
 
