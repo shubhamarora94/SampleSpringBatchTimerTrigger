@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountrashd9190;AccountKey=sbbwXZOmVW/VDBdui8zH2k8JrDJSPVLJsUcyI9i4z1FmB1Hj6s4LtH/W9iNs6AVZrL9cEXFSH2E1m5NsoLcaSA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "MAIN_CLASS":"com.example.BatchDemoApplication",
+    "AzureWebJobsDashboard": ""
+  }
+}
