@@ -14,7 +14,7 @@ This is a sample application to showcase the use of Spring Cloud Function on top
 
 # Installation
 
-* Clone the project: git clone https://github.com/shrivastavarashmi/SampleAzFunctionBatchHandler.git
+* Clone the project: git clone https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger.git
 
 * Configure the project to use your own resource group and your own application name (it should be unique across Azure)
 
