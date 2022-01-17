@@ -40,3 +40,6 @@ Once the application is built, you can run it locally using the Azure Function M
 Deploy the application on Azure Functions with the Azure Function Maven plug-in:
 
 ``` mvn azure-functions:deploy ```
+
+# Reference [Link](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure)
+
