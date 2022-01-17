@@ -42,5 +42,7 @@ Deploy the application on Azure Functions with the Azure Function Maven plug-in:
 
 ``` mvn azure-functions:deploy ```
 
-# Reference [Link](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure)
+# Reference Links
+* [Create Azure Function using Intellij](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij)
+* [Getting Started with Spring Cloud Function in Azure](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure)
 
