@@ -11,6 +11,7 @@ This is a sample application to showcase the use of Spring Cloud Function on top
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure)
 
 * [Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#v2) version 3.0.13901.0 or above
+* Create Function App Instance in portal
 
 # Installation
 
