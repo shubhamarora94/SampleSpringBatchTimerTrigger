@@ -28,11 +28,19 @@ This is a sample application to showcase the use of Spring Cloud Function on top
   * Open the ``` local.settings.json ```
   * Customize the AzureWebJobsStorage property with your own storage account key
 
+* Configure Azure SQL Server details with your own Azure SQL Server details
+
+  * Open the ``` application.properties ```
+  * Customize the spring.datasource.url, spring.datasource.username and spring.datasource.password properties with your own Azure SQL server instance details.
+
+
 * Build the project: ``` mvn clean package ```
 
 # Quickstart
 
-Once the application is built, you can run it locally using the Azure Function Maven plug-in:
+* Create Azure SQL resource on your resource group and use the details as per above-mentioned changes.
+* Create Storage account and use details as per above-mentioned changes.
+* Once the application is built, you can run it locally using the Azure Function Maven plug-in:
 
 ``` mvn azure-functions:run ```
 
