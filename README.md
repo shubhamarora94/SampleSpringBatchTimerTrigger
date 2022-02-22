@@ -1,6 +1,13 @@
-# SampleSpringBatchTimerTrigger
+# SpringBatch Application invoked by Timer Trigger
 
-This is a sample application to showcase the use of Spring Cloud Function on top of Azure Functions for Spring batch application.
+This repository consists of sample application to showcase a way to run springboot batch application invoked by timer trigger.
+
+# Technologies Used
+
+* Java version 11
+* SpringBoot Batch
+* Azure Funtions
+* Azure SQL
 
 # Prerequisite
 
