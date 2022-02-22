@@ -45,8 +45,8 @@ This repository consists of sample application to showcase a way to run springbo
 
 # Quickstart
 
-* Create Azure SQL resource on your resource group and use the details as per above-mentioned changes.
-* Create Storage account and use details as per above-mentioned changes.
+* Create [Azure SQL](https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?tabs=azure-portal) on your resource group and use the details as per above-mentioned changes.
+* Create [Storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal) and use details as per above-mentioned changes.
 * Once the application is built, you can run it locally using the Azure Function Maven plug-in:
 
 ``` mvn azure-functions:run ```
