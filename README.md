@@ -30,7 +30,7 @@ This repository consists of sample application to showcase a way to run springbo
 
   * Customize the resourceGroup and appName properties
   
-* Configure Storage account key with your own Storage Account key details
+* Configure Storage account key with your own Storage Account connection string details
 
   * Open the ``` local.settings.json ```
   * Customize the AzureWebJobsStorage property with your own storage account key
