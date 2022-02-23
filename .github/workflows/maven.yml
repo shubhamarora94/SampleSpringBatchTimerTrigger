@@ -22,5 +22,9 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         cache: maven
+    - name: 'Install Azure Function App CLI'
+      run: |
+        sudo apt-get update
+        sudo apt-get install azure-functions-core-tools-4    
     - name: Build with Maven
       run: mvn -B package --file pom.xml
