@@ -1,6 +1,6 @@
-# SpringBatch Application invoked by Timer Trigger
+# SpringBoot Batch Application on Azure Function invoked by Timer Trigger
 
-This repository consists of sample application to showcase a way to run springboot batch application invoked by timer trigger.
+This repository consists of sample application to showcase a way to run springboot batch application on Azure Function invoked by timer trigger.
 
 # Technologies Used
 
