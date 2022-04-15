@@ -1,7 +1,7 @@
 # This workflow will build a Java project with Maven, and cache/restore any dependencies to improve the workflow execution time
 # For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
 
-name: Java CI with Maven
+name: Java CICD with Maven
 
 on:
   push:
@@ -12,7 +12,7 @@ on:
 env:
   AZURE_FUNCTIONAPP_NAME: TimerHandler      # set this to your function app name on Azure
   POM_XML_DIRECTORY: '.'                     # set this to the directory which contains pom.xml file
-  POM_FUNCTIONAPP_NAME: TimerHandler        # set this to the function app name in your local development environment
+  POM_FUNCTIONAPP_NAME: BatchHandler        # set this to the function app name in your local development environment
  
 jobs:
   build-and-deploy:
