@@ -37,4 +37,10 @@ jobs:
         pushd './${{ env.POM_XML_DIRECTORY }}'
         mvn clean package
         popd
+    - name: 'Deploy unction Using Mvn'
+      shell: bash
+      run: |
+        pushd './${{ env.POM_XML_DIRECTORY }}'
+        mvn azure-functions:deploy
+        popd   
 
