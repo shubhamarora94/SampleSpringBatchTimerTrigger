@@ -15,7 +15,7 @@ env:
   POM_FUNCTIONAPP_NAME: BatchHandler        # set this to the function app name in your local development environment
  
 jobs:
-  build-and-deploy:
+  build:
 
     runs-on: ubuntu-latest
 
