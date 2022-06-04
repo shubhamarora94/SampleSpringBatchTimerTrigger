@@ -4,14 +4,13 @@ Spring Cloud Function enables Spring boot features on serverless providers, and 
 
 This quickstart shows you how to deploy Spring Boot Batch application on Azure Function. When you're finished, you can continue to manage the application via the Azure CLI or switch to using the Azure Portal.
 
-* [Deploy Spring Boot apps using Azure Spring Cloud and MySQL]()
-  * [What will you experience]()
-  * [What you will need]()
-  * [Install the Azure CLI extension]()
-  * [Clone and build the repo]()
-  * [Run the application locally]()
-  * [Deploy the application]()
-  * [Verify and monitor the application]()
+* [Deploy Spring Boot apps using Azure Spring Cloud and MySQL](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#deploy-spring-boot-batch-application-on-azure-function-using-spring-cloud-function)
+  * [What will you experience](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#what-will-you-experience)
+  * [What you will need](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#what-will-you-need)
+  * [Clone and build the repo](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#clone-and-build-the-repo)
+  * [Run the application](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#to-run-the-project-on-azure-cloud-shell)
+  * [Deploy the application](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#deploy-the-application-to-azure-functions)
+  * [Verify and monitor the application](https://github.com/shrivastavarashmi/SampleSpringBatchTimerTrigger#verify-azure-function)
 
 # What will you experience
 You will:
