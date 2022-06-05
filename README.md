@@ -95,8 +95,7 @@ Deploy the application to Azure Functions by using below command :
 
 This command will create new resource group (if not present already) as per given details in the properties setting of ```pom.xml```, also it will create function app, application service plan, application insight and storage account and then deploy the azure function into the Function App.
 
-# Verify Azure function
-
+# Verify and monitor application
 To verify if Azure function is working or not you can check below :
 * Azure function gives facility to monitor your function for each successful or failure calls from your application, you can verify it easily and in case of any failure you can check the logs. Below are the checks you can do inside your function :
   ## Overview :
