@@ -21,7 +21,7 @@ You will:
 * Deploy the application to Azure Function App
 * Verify and monitor the application
 
-# What will you need
+# What you will need
 
 In order to deploy a Java app to cloud, you need an Azure subscription. If you do not already have an Azure subscription, you can activate your [MSDN subscriber benefits](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/) or sign up for a free Azure account.
 
@@ -74,7 +74,7 @@ Select Enter to run the code.
 
 This will take a few minutes.
 
-# To Run the project on Azure Cloud Shell
+# To Run the application
 
 * Configure Storage account key with any of your Storage Account's connection string details
 
