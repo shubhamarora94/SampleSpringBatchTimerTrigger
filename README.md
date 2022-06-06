@@ -74,7 +74,7 @@ Select Enter to run the code.
 
 This will take a few minutes.
 
-# To Run the application
+# Run the application
 
 * Configure Storage account key with any of your Storage Account's connection string details
 
