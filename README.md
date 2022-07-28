@@ -15,7 +15,7 @@ This quickstart shows you how to deploy Spring Boot Batch application on Azure F
 # What will you experience
 You will:
 
-* Build existing Spring Boot Batch application.This repository consists of sample application to showcase a way to deploy and Spring Boot Batch application on Azure Function invoked by timer trigger.
+* Build existing Spring Boot Batch application.This repository consists of sample application to showcase a way to deploy Spring Boot Batch application on Azure Function invoked by timer trigger.
 * Run the application on Azure Cloud to check the functionality
 * Provision Function App Instance
 * Deploy the application to Azure Function App
