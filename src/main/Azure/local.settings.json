@@ -1,9 +1,9 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<your storage account key>",
+    "AzureWebJobsStorage": "lc1Y+S57BSgmYec8gg2ozUavuLjgucQAKJ+VgmOPjoQVaOMM+s5tHdmV0hI/LPuvL5rCoc9sQhf4+ASt0a+9mg==",
     "FUNCTIONS_WORKER_RUNTIME": "java",
     "MAIN_CLASS":"com.example.BatchDemoApplication",
-    "AzureWebJobsDashboard": ""
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=testrg8238;AccountKey=lc1Y+S57BSgmYec8gg2ozUavuLjgucQAKJ+VgmOPjoQVaOMM+s5tHdmV0hI/LPuvL5rCoc9sQhf4+ASt0a+9mg==;EndpointSuffix=core.windows.net"
   }
 }
