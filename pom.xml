@@ -23,9 +23,9 @@
 
         <azure.functions.java.library.version>1.4.2</azure.functions.java.library.version>
         <azure.functions.maven.plugin.version>1.15.0    </azure.functions.maven.plugin.version>
-        <functionResourceGroup>rashdemo</functionResourceGroup>
-        <functionAppName>BatchHandler</functionAppName>
-        <functionAppRegion>westeurope</functionAppRegion>
+        <functionResourceGroup>test-rg</functionResourceGroup>
+        <functionAppName>SampleSpringBatchTimerTrigger</functionAppName>
+        <functionAppRegion>eastus</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
         <start-class>com.example.BatchDemoApplication</start-class>
     </properties>
